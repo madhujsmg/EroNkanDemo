@@ -2,7 +2,7 @@
 
 1. Install node.js 
 2. clone a repository 
-3. jump to current working directory
+3. jump to current working directory (cd EroNkanDemo/)
 4. npm init
 5. sudo npm install --save http
 6. node server.js
