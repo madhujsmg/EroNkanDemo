@@ -90,7 +90,7 @@ var prepareWebPage = function (finalProcessedData) {
 }
 
 
-// creating an server server.
+// creating an a server .
 http.createServer(function (req, res) {
     res.writeHead(200);
     if (res) {
